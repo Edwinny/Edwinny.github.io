@@ -19,16 +19,10 @@ layout: home
 
 ### Pitch
 
-_Coming soon!_
-
-### Overview
-
-_Coming soon!_
+- [Campaign Pitch]({% link handouts/pitch.md %})
 
 ### Communities
 
-_Coming soon!_
+- [Spring Court]({% link handouts/spring-court.md %})
 
-### Inciting Incident
-
-_Coming soon!_
+- [Summer Court]({% link handouts/summer-court.md %})
