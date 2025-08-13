@@ -12,7 +12,7 @@ The great Summer and Winter Courts—once the pillars of Feywild power—have fa
 
 At the heart of the Spring Court, stands Moonbrook—a city where dreams take shape and memories walk. Ruled in delicate harmony by Azena and Inanna, this Feywild metropolis is a sanctuary of art, magic, and mystery.
 
-You find yourselves in the employ of these sovereigns, new to the role; and enjoying the trappings of power that come with the station.
+You find yourselves in the employ of these sovereigns, new to the role; and enjoying the trappings of power that come with the station. Will you aid Lady Azena in her machinations into the World Tree, will you seek out the vanished courts of legend, or something else entirely?
 
 In a realm where reality shifts like silk, and even your past may not belong to you, will you find the truth beneath the surface?
 

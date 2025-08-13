@@ -9,6 +9,8 @@ layout: home
 
 [Grove of silent echoes]({% link handouts/grove.md %})
 
+[Dreamings from Verel Thule]({% link handouts/verel.md %})
+
 <br>
 
 ---
