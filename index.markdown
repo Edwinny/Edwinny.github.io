@@ -11,6 +11,8 @@ layout: home
 
 [Dreamings from Verel Thule]({% link handouts/verel.md %})
 
+[Key locations of Emberwind]({% link handouts/emberwind-locations.md %})
+
 <br>
 
 ---
