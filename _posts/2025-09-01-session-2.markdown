@@ -5,7 +5,7 @@ date: 2025-09-01 20:23:22 +0100
 categories: sessions
 ---
 
-![Moonbrook](/assets/images/shrine-of-stillness.png)
+![shrine-of-stillness](/assets/images/shrine-of-stillness.png)
 
 ## 🌙 Shrine of Stillness
 
