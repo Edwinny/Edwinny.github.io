@@ -1,0 +1,115 @@
+---
+layout: post
+title: "Session 3"
+date: 2025-10-21 20:23:22 +0100
+categories: sessions
+---
+
+![emberwind](/assets/images/emberwind.png)
+
+## 🔥 Entering Emberwind
+
+The gates of Emberwind swing wide, and the first thing that greets you is sound.
+
+A thousand voices rise and fall like waves—laughter, bargaining, singing, and the crackle of fire.
+
+The streets are alive with motion: smiths hammering glowing metal under open awnings, cooks tossing sparks from sizzling pans, and children darting through the crowd with paper lanterns trailing smoke and flame. Even the cobblestones seem to hum faintly, warm under your boots as though the heartbeat of the city itself runs beneath them.
+
+Everywhere, fire dances—not destructive, but celebratory. Flames leap in braziers without consuming their wood. Lanterns blaze with colors no natural fire could hold: sapphire, emerald, violet. Overhead, banners ripple in the updrafts, painted with curling patterns that glow like embers.
+
+The air is rich with spice and smoke, the tang of iron, and the sweet promise of roasted fruit. You hear music spilling from tavern doors: strings, drums, and voices rising together in fierce, joyous harmony.
+
+After Moonbrook’s silence, Emberwind feels overwhelming—like stepping from a dream into a festival, from twilight into dawn.
+
+## 🌑 First Meeting with an unusual sort
+
+The streets of Emberwind buzz with life — fire-dancers on corners, merchants hawking mirrors and charms, the tang of smoke and spice in the air. Yet amid the clamor, you hear a **strange voice** rise above it all.
+
+In the shadow of a weathered fountain, a **ragged figure** sits cross-legged upon a crate. Their cloak is patched with scraps of silver cloth, their hair an untamed tangle streaked with gray-white. Before them, a shallow bronze bowl filled with water trembles, though no hand touches it.
+
+The figure cackles suddenly, sending a nearby child scurrying.
+
+> “Ahh! They walk, they _walk_ — threads unspooled, roots untethered! Do you not hear it? Do you not feel it? The world _splits itself_ ragged with longing!”
+
+The crowd avoids them with the wary sidelong glances reserved for lunatics. But as you draw closer, the figure’s eyes snap to yours. **Mercury pools of silver** bore into you — piercing, unsettling, too sharp to be madness.
+
+They jab a crooked finger in your direction.
+
+> “You! Yes, you. The ones who carry seeds in their shadow and storms in their marrow. You’ve broken things already, haven’t you? Mm, yes… the silence tastes different now. Haaah! Azena will not be pleased.”
+
+Their laugh rings out like cracked glass, but it’s followed by a sudden, lucid whisper as you lean in:
+
+> “Ashes can sprout if watered with blood. Embers can birth forests, if you dare to plant them. But tell me… when the cold claws down from the hollow sky, will you still believe in blooming?”
+
+Then, as quickly as the moment came, the figure slaps the bowl, sending the water spilling into the dirt. They resume muttering nonsense to themselves, rocking back and forth like any ordinary mad soothsayer.
+
+Yet the echo of their words hangs heavy.
+Something about this **mercury-eyed prophet** feels… older than the city itself.
+
+## 🗼 A Tower of Promise
+
+The leader of Emberwind is known to mortals as **Vaelithar the Argent Flame**, though Azena calls them only *Vaelith*, with the easy familiarity of an old comrade.
+
+Mercury dragons are rare even among their kind, creatures of quicksilver mind and form, whose scales ripple like living mirrors. Vaelithar is no exception: in dragon-shape, their body shimmers like molten metal poured into the sky, and even in humanoid guise their silver hair seems fluid, forever catching the light.
+
+Through discussion you also discovered that Vaelithar had met Hades in her youth, many millennia earlier. He left her with the imposing quote
+
+> I will return when you unlock the power to rend the world asunder
+
+He has not been seen since
+
+### ⚔️ Bond with Azena
+
+You discovered the current ruler of Emberwind is _the_ Vaelithar, and discovered a tidbit of her shared history with Azena:
+
+- During the **Hollow War**, Vaelithar and Azena stood side by side.
+- Azena was then a general, not yet a queen, wielding her wits and her unyielding heart. Vaelithar was her shield and her fire, scouring armies with silver flame.
+- Together, they were called **Dusk and the Argent Flame.**
+
+### 📚 A Library of the Ages
+
+You discovered Vaelithar is quite the hoarder of knowledge; especially when it comes to Verel Thule. You added a couple of verses to your collection
+
+#### I.
+
+Before the song was broken, the sea sang to itself —
+
+its waves the breath of gods unborn, its foam the dreams of men unmade.
+
+But then came the hand that stilled the tide, and the silence learned to weep.
+
+#### II.
+
+I have seen the sun drown its twin, and both give birth to shadow.
+
+The sky remembers where the wound began, though none recall the blade.
+
+Yet in the mirror’s shattered face, each shard still dreams of being whole.
+
+#### III.
+
+They built their heavens from the bones of thought, and their hells from the dust of memory.
+
+And I, a child of neither world, am cursed to dream the moments in between —
+
+the breath before the world awoke, the tear that split the soul.
+
+#### IV.
+
+Do not ask the name of the one who mends, for even he has forgotten the shape of mercy.
+
+He gathers light in broken hands, and calls it home.
+
+I have seen his shadow kneel beside the dawn —and whisper, not yet.
+
+<br>
+
+---
+
+<br>
+
+## Your mission from Azena - Reminder
+
+- Travel to Emberwind and plant the seeds of the Banyan. Its roots will bind to the Honmoon bringing some power back to Moonbrook
+- Continue to Misthaven to investigate Debuccy’s disappearance and the Mangal growing there. Debuccy must be found, and if the blight has formed there, we have to know more about it
+- If you discover Hades; kill or contain. He is an enemy of the Spring Court
