@@ -1,8 +1,11 @@
 ---
-title: "A new life - A new hope?"
-date: 2025-06-30 20:23:22 +0100
-tags: handouts
+layout: post
+title: "Session 4"
+date: 2025-11-01 20:23:22 +0100
+categories: sessions
 ---
+
+![emberwind](/assets/images/emberwind.png)
 
 # 🌱 A new life - A new hope?
 

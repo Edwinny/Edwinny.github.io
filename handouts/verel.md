@@ -1,7 +1,7 @@
 ---
-title: "Dreamings of Verel Thule"
+title: "Verel Thule - Moonbrook - Scriptorium"
 date: 2025-08-13 20:23:22 +0100
-tags: handouts
+tags: [handouts, verel, moonbrook]
 ---
 
 **A fragmented recollection, attributed to the Dreaming Scribe of Verel Thule, circa the Age Before Echoes.**

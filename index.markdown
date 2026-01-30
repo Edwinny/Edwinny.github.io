@@ -9,9 +9,9 @@ layout: home
 
 [Grove of silent echoes]({% link handouts/grove.md %})
 
-[Dreamings from Verel Thule]({% link handouts/verel.md %})
-
 [Key locations of Emberwind]({% link handouts/emberwind-locations.md %})
+
+[Compendium of Verel Thule]({% link verel-compendium.html %})
 
 <br>
 
