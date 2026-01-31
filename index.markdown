@@ -11,6 +11,8 @@ layout: home
 
 [Key locations of Emberwind]({% link handouts/emberwind-locations.md %})
 
+[Idol Awards]({% link handouts/idol-awards.md %})
+
 [Compendium of Verel Thule]({% link verel-compendium.html %})
 
 <br>
