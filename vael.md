@@ -27,12 +27,4 @@ Mercury dragons are rare even among their kind, creatures of quicksilver mind an
 ## 🌸 **Why Emberwind?**
 
 - The city itself was raised upon the ashes of the Hollow War, its crimson tower a scar and a monument. Vaelithar swore to guard it as a sanctuary for dreamers, artisans, and wanderers.
-- To this day, Emberwind thrives on **artistry, invention, and freedom**, mirroring Vaelithar’s mercurial nature. It is a city of fire and reflection, where the air hums with possibility.
-
----
-
-## 🎭 **Hooks for Play**
-
-- Vaelithar could serve as **patron, foil, or uneasy ally**. Their chaotic nature means they may support the party one day and test them the next.
-- Their friendship with Azena ensures political weight — if Vaelithar speaks, even the Verdant Throne must listen.
-- They may also carry **memories of the Hollow War** that even Azena has set aside, stories that could reshape how the party views the past — and what’s coming.
+- To this day, Emberwind thrives on **artistry, invention, and freedom**, mirroring Vaelithar’s mercurial nature. It is a city of fire and reflection, where the air hums with pos

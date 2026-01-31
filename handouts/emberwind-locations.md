@@ -4,7 +4,7 @@ date: 2025-08-13 20:23:22 +0100
 tags: handouts
 ---
 
-# 🌆 Key Locations in Emberwind
+# 🔥 Key Locations in Emberwind
 
 ![Emberwind](/assets/images/emberwind.png)
 

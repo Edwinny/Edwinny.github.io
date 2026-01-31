@@ -9,7 +9,11 @@ layout: home
 
 [Grove of silent echoes]({% link handouts/grove.md %})
 
+[Key locations of Moonbrook]({% link handouts/moonbrook.md %})
+
 [Key locations of Emberwind]({% link handouts/emberwind-locations.md %})
+
+[Key locations of Misthaven]({% link handouts/misthaven.md %})
 
 [Idol Awards]({% link handouts/idol-awards.md %})
 
